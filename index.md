@@ -21,11 +21,9 @@ This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
-It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a> 
-and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
-Colors are the corporate design colors from the University of Würzburg.
+It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
 
-![Example logo of the Hackyhour in Würzburg](logo/hackyhour_wue.svg "Logo HackyHour Würzburg as an example")
+![Logo of the Hackyhour](logo/hackyhour_generic.svg "Generic HackyHour Logo")
 
 # License
 The content of this website is available under [CC0](LICENSE).
